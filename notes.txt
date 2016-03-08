@@ -1,0 +1,2 @@
+npm install tmp --save
+node node_modules\bower\bin\bower install angular --save
